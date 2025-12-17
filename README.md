@@ -5,9 +5,8 @@ This is my personal portfolio website showcasing my skills, projects, and experi
 
 ## ✨ Features
 - **Responsive Design** – Works on desktop, tablet, and mobile devices.
-- **Project Showcase** – Displays featured projects with descriptions and links.
+- **Project Showcase** – Displays featured projects with descriptions.
 - **About Me Section** – Highlights my background, skills, and interests.
-- **Contact Form** – Allows visitors to reach out easily.
 - **Smooth Navigation** – User-friendly interface with clean design.
 
 ## 🛠️ Technologies Used
